@@ -1,5 +1,4 @@
 # pruebas-Apis
-Como tester tenemos la responsabilidad de comprobar que la aplicación entienda correctamente la acción, validamos endpoints que son la ruta en el servidor que procesa una solicitud., asi mismo utilizamos el body Json de la documentacion y luego verificamos diferentes escenario.
 
 <img width="1586" height="559" alt="Captura de pantalla 2026-05-06 214040" src="https://github.com/user-attachments/assets/4c78859c-f05e-4d36-8d8e-fff975117092" />
 <img width="1640" height="617" alt="Captura de pantalla 2026-05-06 213957" src="https://github.com/user-attachments/assets/97e7ce95-0f54-4e29-be41-34de7f99ff7b" />
